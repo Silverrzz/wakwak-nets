@@ -1,2 +1,2 @@
 # wakwak-nets
-nnue's for wakwak duckchess engine
+nnue's for [wakwak](https://github.com/Silverrzz/wakwak) duckchess engine
